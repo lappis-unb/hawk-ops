@@ -92,3 +92,6 @@ checkpoint/
 
 # Arquivos do macOS
 .DS_Store
+
+# Desenvolvimento
+hawk-ops-dev/
